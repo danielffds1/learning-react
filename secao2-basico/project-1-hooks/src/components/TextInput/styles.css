@@ -1,0 +1,8 @@
+/*style.css dentro da pasta textInput -> components ->  src*/
+
+.text-input{
+    width: 100%;
+    font-size: 30px;
+    padding: 5px 10px;
+ }
+ 

@@ -23,7 +23,6 @@ export class Home extends Component {
    await this.loadPosts();
  }
 
-
  //Está mudança está sendo necessária para alterar a paginação, irá mostrar 5 Posta de cada vez e ir alterando.
  loadPosts = async () => {
    const {page, postsPerPage} = this.state;
